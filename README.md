@@ -1,4 +1,3 @@
-
 # 🕵️‍♂️ Steganography: Hiding Information in an Image
 
 This Python-based steganography tool allows users to **securely hide or extract secret messages** inside images (like `.jpg`, `.png`) using encryption and a user-provided key. Designed for **cybersecurity projects**, this tool provides a simple terminal interface with step-by-step prompts.
